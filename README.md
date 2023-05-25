@@ -2,7 +2,7 @@
 
 ## Team Members
 
-Hayden Knox
+Hayden Knox, Akshay Mennon, Luka Didham
 
 ## To compile the program
 
